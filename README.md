@@ -64,9 +64,9 @@
 </table>
 
 ###  取得資格
-TOEIC(L&R)670点
-MOS Word 2016
-MOS Excel 2016
+TOEIC(L&R)670点、
+MOS Word 2016、
+MOS Excel 2016、
 MOS PowerPoint 2016
 
 
