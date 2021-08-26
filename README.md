@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michimichi2021&theme=cobalt" />
 </a>
 
-<a href="https://github.com/michimichi2021" target="_blank">
-  <img src="https://grass-graph.works/images/michimichi2021.png?rotate=0">
-</a>
-
-
-
 
 ### 名前
 道前 果歩(みちまえ　かほ)
