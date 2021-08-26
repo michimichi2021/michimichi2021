@@ -7,6 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michimichi2021&theme=cobalt" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=michimichi2021&theme=onedark)](https://github.com/michimichi2021/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michimichi2021&theme=monokai)
+
 
 ### 名前
 道前 果歩(みちまえ　かほ)
