@@ -12,14 +12,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michimichi2021&theme=monokai)
 
 
-### 名前
-道前 果歩(みちまえ　かほ)
-
-### 年齢
-1998年生まれです。今年で23歳になります。
-
-### 居住地
-京都府在住。
+道前 果歩(みちまえ　かほ)と申します。
+1998年生まれの今年で23歳になります。
+出身は富山県で、現在は京都府在住です。
 
 ### 好きなことや趣味
 プログラミングと物販です。
@@ -51,15 +46,15 @@
 ### リンク
 <table>
   <thead>
-    <th>value</th>
-    <th>key</th>
+    <th>内容</th>
+    <th>URL</th>
   </thead>
   <tbody>
     <tr>
     <td>日々の学習感想等をツイート</td><td>https://twitter.com/KAHO23340582</td>
     </tr>
     <tr>
-    <td>学習記録をアウトプット</td><td>https://qiita.com/KAHO23340582</td>
+    <td>学習記録のアウトプット</td><td>https://qiita.com/KAHO23340582</td>
     </tr>
     <tr>
     <td>ポートフォリオ</td><td>作成中</td>
