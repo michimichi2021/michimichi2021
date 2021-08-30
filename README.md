@@ -1,5 +1,3 @@
-# 自己紹介
-
 <a href="https://github.com/michimichi2021/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=michimichi2021&show_icons=true&theme=cobalt" />
 </a>
@@ -11,6 +9,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michimichi2021&theme=monokai)
 
+### 自己紹介
 
 道前 果歩(みちまえ　かほ)と申します。
 1998年生まれの今年で23歳になります。
