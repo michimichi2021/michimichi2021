@@ -1,3 +1,17 @@
+### 自己紹介
+道前 果歩(みちまえ　かほ)と申します。
+1998年生まれの今年で23歳になります。
+出身は富山県で、現在は京都府在住です。
+
+### 好きなことや趣味
+プログラミングと物販です。
+基本的に、様々な知識を吸収し、学び続けることが好きです。
+上記以外の趣味は旅行やカフェ巡りです。コロナがおさまったら行きたい。
+
+### 嫌いなこと
+物事について手を抜く人
+
+
 <a href="https://github.com/michimichi2021/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=michimichi2021&show_icons=true&theme=cobalt" />
 </a>
@@ -9,16 +23,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michimichi2021&theme=monokai)
 
-### 自己紹介
 
-道前 果歩(みちまえ　かほ)と申します。
-1998年生まれの今年で23歳になります。
-出身は富山県で、現在は京都府在住です。
-
-### 好きなことや趣味
-プログラミングと物販です。
-基本的に、様々な知識を吸収し、学び続けることが好きです。
-上記以外の趣味は旅行やカフェ巡りです。コロナがおさまったら行きたい。
 
 ### 経歴
 <table>
