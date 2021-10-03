@@ -1,3 +1,18 @@
+<p align="left"> 
+  <a href="https://twitter.com/KAHO23340582/followers">
+    <img height="20" src="https://img.shields.io/twitter/follow/KAHO23340582?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/michimichi2021">
+    <img height="20" src="https://img.shields.io/github/followers/michimichi2021?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/KAHO23340582">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/KAHO23340582/posts.svg" />
+  </a>
+  <//qiita.com/KAHO23340582">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/KAHO23340582/contributions.svg" />
+  </a>
+</p>
+
 ### 自己紹介
 道前 果歩(みちまえ　かほ)と申します。
 <br>1998年生まれの今年で23歳になります。
@@ -8,9 +23,6 @@
 <br>基本的に、様々な知識を吸収し、学び続けることが好きです。
 <br>上記以外の趣味は旅行やカフェ巡りです。
 <br>コロナがおさまったら行きたい。
-
-### 嫌いなこと
-物事について手を抜く人
 
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
