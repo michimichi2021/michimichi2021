@@ -1,22 +1,10 @@
-<p align="left"> 
-  <a href="https://github.com/michimichi2021">
-    <img height="20" src="https://img.shields.io/github/followers/michimichi2021?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/KAHO23340582">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/KAHO23340582/posts.svg" />
-  </a>
-  <//qiita.com/KAHO23340582">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/KAHO23340582/contributions.svg" />
-  </a>
-</p>
-
 ### 自己紹介
 道前 果歩(みちまえ　かほ)と申します。
 <br>1998年生まれの今年で23歳になります。
 <br>出身は富山県で、現在は京都府在住です。
 
 ### 好きなことや趣味
-プログラミングと物販です。
+プログラミング学習です。
 <br>基本的に、様々な知識を吸収し、学び続けることが好きです。
 <br>上記以外の趣味は旅行やカフェ巡りです。
 <br>コロナがおさまったら行きたい。
@@ -43,13 +31,13 @@
   </thead>
   <tbody>
     <tr>
-    <td>2014/4-2017/3</td><td>富山県の高等学校普通科を卒業</td>
+    <td>2014/4-2017/3</td><td>富山県立富山高等学校普通科を卒業</td>
     </tr>
     <tr>
     <td>2017/4-2021/3</td><td>京都産業大学、総合生命科学部を卒業</td>
     </tr>
     <tr>
-    <td>2021/5-2021/6</td><td>独学でプログラミングを勉強</td>
+    <td>2021/4-2021/6</td><td>独学でプログラミングを勉強</td>
     </tr>
     <tr>
     <td>2021/７-</td><td>DMMWEBCAMPを受講中</td>
@@ -68,7 +56,10 @@
     <td>学習記録のアウトプット</td><td>https://qiita.com/KAHO23340582</td>
     </tr>
     <tr>
-    <td>ポートフォリオ</td><td>作成中</td>
+    <td>ポートフォリオ1個目(Ruby on Rails)</td><td>http://35.74.222.228/</td>
+    </tr>
+    <tr>
+    <td>ポートフォリオ2個目(Ruby on Rails)</td><td>http://54.150.111.105/</td>
     </tr>
   </tbody>
 </table>
