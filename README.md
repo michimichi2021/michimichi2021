@@ -1,7 +1,4 @@
 <p align="left"> 
-  <a href="https://twitter.com/KAHO23340582/followers">
-    <img height="20" src="https://img.shields.io/twitter/follow/KAHO23340582?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/michimichi2021">
     <img height="20" src="https://img.shields.io/github/followers/michimichi2021?label=follow&logo=github&style=flat" />
   </a>
@@ -67,9 +64,6 @@
     <th>URL</th>
   </thead>
   <tbody>
-    <tr>
-    <td>日々の学習感想等をツイート</td><td>https://twitter.com/KAHO23340582</td>
-    </tr>
     <tr>
     <td>学習記録のアウトプット</td><td>https://qiita.com/KAHO23340582</td>
     </tr>
