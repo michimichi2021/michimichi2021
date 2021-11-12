@@ -40,7 +40,7 @@
     <td>2021/5-2021/6</td><td>独学でプログラミングを勉強</td>
     </tr>
     <tr>
-    <td>2021/７-</td><td>DMMWEBCAMPを受講中</td>
+    <td>2021/７-2021/9</td><td>DMMWEBCAMPを受講</td>
     </tr>
   </tbody>
 </table>
