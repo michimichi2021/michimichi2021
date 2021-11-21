@@ -9,6 +9,10 @@
 <br>上記以外の趣味は旅行やカフェ巡りです。
 <br>コロナがおさまったら行きたい。
 
+### 今後勉強したいこと
+Java
+<br>PHP
+<br>AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=michimichi2021&show_icons=true&theme=cobalt" />
