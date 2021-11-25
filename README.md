@@ -10,8 +10,8 @@
 <br>コロナがおさまったら行きたい。
 
 ### 今後勉強したいこと
-Java
-<br>PHP
+
+<br>Ruby,PHP
 <br>AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
