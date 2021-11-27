@@ -12,6 +12,7 @@
 ### 今後勉強したいこと
 
 <br>Ruby,PHP
+<br>Docker
 <br>AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
@@ -60,10 +61,7 @@
     <td>学習記録のアウトプット</td><td>https://qiita.com/KAHO23340582</td>
     </tr>
     <tr>
-    <td>ポートフォリオ1個目(Ruby on Rails)</td><td>http://35.74.222.228/</td>
-    </tr>
-    <tr>
-    <td>ポートフォリオ2個目(Ruby on Rails)</td><td>（まだ製作中ですが、それでも良ければ拝見どうぞ)http://54.150.111.105/</td>
+    <td>ポートフォリオ(Ruby on Rails)</td><td>http://35.74.222.228/</td>
     </tr>
   </tbody>
 </table>
