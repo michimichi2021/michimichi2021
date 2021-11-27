@@ -61,7 +61,10 @@
     <td>学習記録のアウトプット</td><td>https://qiita.com/KAHO23340582</td>
     </tr>
     <tr>
-    <td>ポートフォリオ(Ruby on Rails)</td><td>http://35.74.222.228/</td>
+    <td>ポートフォリオ1個目(Ruby on Rails)</td><td>http://35.74.222.228/</td>
+    </tr>
+    <tr>
+    <td>ポートフォリオ2個目はまだ製作中です(Ruby on Rails)</td><td>製作中ですhttp://54.150.111.105/</td>
     </tr>
   </tbody>
 </table>
