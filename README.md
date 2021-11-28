@@ -11,7 +11,7 @@
 
 ### 今後勉強したいこと
 
-<br>Ruby,PHP
+<br>Ruby
 <br>Docker
 <br>AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
 
