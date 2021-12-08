@@ -74,7 +74,7 @@ TOEIC(L&R)670点、
 MOS Word 2016、
 MOS Excel 2016、
 MOS PowerPoint 2016、
-全国珠算教育連盟、暗算3段,珠算1級
+全国珠算教育連盟暗算3段,珠算1級
 
 
 
