@@ -7,13 +7,13 @@
 プログラミング学習です。
 <br>基本的に、様々な知識を吸収し、学び続けることが好きです。
 <br>上記以外の趣味は旅行やカフェ巡りです。
-<br>コロナがおさまったら行きたい
+<br>コロナがおさまったら行きたい♪
 
 ### 今後勉強したいこと
 
-<br>Ruby
+<br>Rubyでゲームプログラムを使いながらロジックを理解する
 <br>Dockerの基本操作
-<br>AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
+<br>LPIC,AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=michimichi2021&show_icons=true&theme=cobalt" />
