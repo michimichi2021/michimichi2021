@@ -12,8 +12,7 @@
 ### 今後勉強したいこと
 Rubyでゲームプログラムを作りながらロジックを理解する
 <br>PythonとPHPにも興味あり♪
-<br>Dockerの基本操作
-<br>LPIC,AWS認定資格であるソリューションアーキテクト-アソシエイト（SAA）の取得
+<br>Docker,AWSの基本操作
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=michimichi2021&show_icons=true&theme=cobalt" />
