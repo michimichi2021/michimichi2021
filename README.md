@@ -11,7 +11,8 @@
 
 ### 今後勉強したいこと
 Rubyでゲームプログラムを作りながらロジックを理解する
-<br>PythonとPHPにも興味あり♪
+<br>PHP、Laravelを勉強中
+<br>pythonにも興味あり♪
 <br>Docker,AWSの基本操作
 
 <a href="https://github.com/michimichi2021/github-readme-stats">
