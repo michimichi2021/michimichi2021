@@ -58,9 +58,6 @@ Rubyでゲームプログラムを作りながらロジックを理解する
   </thead>
   <tbody>
     <tr>
-    <td>学習記録のアウトプット</td><td>https://qiita.com/KAHO23340582</td>
-    </tr>
-    <tr>
     <td>ポートフォリオ1個目(Ruby on Rails)</td><td>http://35.74.222.228/</td>
     </tr>
     <tr>
