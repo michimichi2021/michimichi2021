@@ -63,9 +63,6 @@ Rubyでゲームプログラムを作りながらロジックを理解する
     <tr>
     <td>ポートフォリオ2個目はまだ製作中です(Ruby on Rails)</td><td>製作中ですhttp://54.150.111.105/</td>
     </tr>
-    <tr>
-    <td>気ままにツイート</td><td>https://twitter.com/KAHO23340582</td>
-    <tr> 
   </tbody>
 </table>
 
