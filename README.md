@@ -6,6 +6,10 @@
 #### age:　23<br>
 #### hobby:　eating sweets,　traveling,　music,　programming,　K-POP♡
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michimichi2021" />
+</a>
+
 -------------------------------------------------------------------------
 ### Education・Career　💼
 -------------------------------------------------------------------------
