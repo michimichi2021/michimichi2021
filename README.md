@@ -1,78 +1,39 @@
 ----------------------
-### 自己紹介( ^ω^ )
+### introduction( ^ω^ )
 ----------------------
-道前果歩(みちまえかほ)です♪
-<br>1998年生まれの今年で23歳になります。
-<br>出身は富山県で、現在は京都府在住です。
-
-趣味: カフェ巡り、旅行、音楽を聞くこと、好きなK-POPアイドルを拝むこと、プログラミングの勉強<br>
+#### name:　KAHO <br>
+#### gender:　woman<br>
+#### age:　23<br>
+#### hobby:　eating sweets,　traveling,　music,　programming,　K-POP♡
 
 -------------------------------------------------------------------------
-### 今後勉強したいこと
+### Education・Career　💼
 -------------------------------------------------------------------------
-Rubyでゲームプログラムを作りながらロジックを理解する
-<br>PHP、Laravelを勉強中
-<br>Docker,AWSの基本操作
 
-<a href="https://github.com/michimichi2021/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=michimichi2021&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://github.com/michimichi2021/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michimichi2021&theme=cobalt" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=michimichi2021)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michimichi2021&theme=monokai)
-
-
-
-### 経歴
 <table>
-  <thead>
-    <th>期間</th>
-    <th>経歴</th>
-  </thead>
-  <tbody>
-    <tr>
-    <td>2014/4-2017/3</td><td>富山県立富山高等学校普通科を卒業</td>
-    </tr>
-    <tr>
-    <td>2017/4-2021/3</td><td>京都産業大学、総合生命科学部を卒業</td>
-    </tr>
-    <tr>
-    <td>2021/4-2021/6</td><td>独学でプログラミングを勉強</td>
-    </tr>
-    <tr>
-    <td>2021/７-2021/9</td><td>DMMWEBCAMPを受講</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td>2021.7~2021.9</td><td>DMM WEB CAMP</td>
+  </tr>
+  <tr>
+    <td>2022.2~</td><td>WEB Engineer</td>
+  </tr>
 </table>
 
-### リンク
-<table>
-  <thead>
-    <th>内容</th>
-    <th>URL</th>
-  </thead>
-  <tbody>
-    <tr>
-    <td>ポートフォリオ1個目(Ruby on Rails)</td><td>(インスタンス停止しました)http://35.74.222.228/</td>
-    </tr>
-    <tr>
-    <td>ポートフォリオ2個目(Ruby on Rails)</td><td>(インスタンス停止しました)http://54.150.111.105/</td>
-    </tr>
-  </tbody>
-</table>
-
-###  取得資格
-TOEIC(L&R)670点、
-MOS Word 2016、
-MOS Excel 2016、
-MOS PowerPoint 2016、
-全国珠算教育連盟暗算3段,珠算1級
+-------------------------------------------------------------------------
+### qualification　✏️
+-------------------------------------------------------------------------
+TOEIC(L&R)score 670<br>
+MOS Word 2016<br>
+MOS Excel 2016<br>
+MOS PowerPoint 2016<br>
+First class in abacus certificate examination<br>
+Third grade in mental arithmetic
 
 
+-------------------------------------------------------------------------
+### Let,s studying　💻
+-------------------------------------------------------------------------
+#### PHP, Laravel, TypeScript, React
 
 
 
