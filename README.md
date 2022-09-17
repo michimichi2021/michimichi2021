@@ -47,6 +47,9 @@ SR1系統のニコチアナタバコの純系統で変異体が生じた原因�
 
 <table>
   <tr>
+    <td>活動サイト</td><td>https://kaho-diary.wraptas.site/</td>
+  </tr>
+  <tr>
       <td>(就職前)売り上げ管理がしやすいフリマプリ</td><td>https://github.com/michimichi2021/PF_market-analysis</td>
   </tr>
   <tr>
