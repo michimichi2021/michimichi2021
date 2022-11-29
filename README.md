@@ -70,9 +70,6 @@ SR1系統のニコチアナタバコの純系統で変異体が生じた原因�
   <tr>
     <td>プロを目指す人のためのRUBY入門</td><td>https://github.com/michimichi2021/Ruby__study</td>
   </tr>
-  <tr>
-    <td>railsチュートリアル</td><td>https://github.com/michimichi2021/sample_app</td>
-  </tr>
 </table>
 
 -------------------------------------------------------------------------
@@ -96,9 +93,6 @@ SR1系統のニコチアナタバコの純系統で変異体が生じた原因�
   </tr>
   <tr>
     <td>reactでクイズを作ったよ〜</td><td>https://github.com/michimichi2021/react_quiz</td>
-  </tr>
-  <tr>
-    <td>reactチュートリアル</td><td>https://github.com/michimichi2021/react-tutrial</td>
   </tr>
 </table>
 
