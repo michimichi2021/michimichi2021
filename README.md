@@ -3,8 +3,8 @@
 ----------------------
 #### 名前:　かほ <br>
 #### 性別:　女性<br>
-#### 趣味:　甘いもの食べ歩き,　音楽聴くこと,　K-POPアイドル(女性)を拝むこと
-
+#### 趣味:　コミュニティ活動、甘いもの食べ歩き,　音楽聴くこと,　K-POPアイドル(女性)を拝むこと
+#### Twitterアカウント: https://twitter.com/kaho_eng
 
 -------------------------------------------------------------------------
 ### 経歴　💼
@@ -38,8 +38,7 @@
 SR1系統のニコチアナタバコの純系統で変異体が生じた原因を探るための研究を行っていました。<br>
 学内での英語研究発表会にも参加し、研究内容をスライドにまとめ、英語でプレゼンテーション動画を作成、質疑応答も行いました。<br>
 小規模な発表会ではありましたが、特別賞もいただきました。<br>
-当時の様子が大学のホームページに掲載されています↓<br>
-https://www.kyoto-su.ac.jp/news/20210330_tmpl01.html
+当時の様子が大学のホームページに掲載されていますので、必要であれば提示します。
 
 
 -------------------------------------------------------------------------
@@ -59,7 +58,7 @@ https://www.kyoto-su.ac.jp/news/20210330_tmpl01.html
 </table>
 
 -------------------------------------------------------------------------
-### Rubyで遊んでみた
+### Ruby,Ruby on Railsでちょこっと学習&遊んでみた
 -------------------------------------------------------------------------
 <table>
   <tr>
@@ -68,8 +67,58 @@ https://www.kyoto-su.ac.jp/news/20210330_tmpl01.html
   <tr>
     <td>case文で赤ずきんちゃんゲーム</td><td>https://github.com/michimichi2021/ruby_akazukin</td>
   </tr>
+  <tr>
+    <td>プロを目指す人のためのRUBY入門</td><td>https://github.com/michimichi2021/Ruby__study</td>
+  </tr>
+  <tr>
+    <td>railsチュートリアル</td><td>https://github.com/michimichi2021/sample_app</td>
+  </tr>
 </table>
 
+-------------------------------------------------------------------------
+### TypeScript,Reactでちょこっと学習&遊んでみた
+-------------------------------------------------------------------------
+<table>
+  <tr>
+    <td>TypeScript/React,BaaSはFirebaseによる簡単チャットアプリ♪( ´▽｀)</td><td>https://github.com/michimichi2021/react-firebase-chat</td>
+  </tr>
+  <tr>
+    <td>DMMWEBCAMP卒業生コミュニティよしぴーさんによるTypeScript講座youtube予習</td><td>https://github.com/michimichi2021/yoshipi-homework-1</td>
+  </tr>
+  <tr>
+    <td>簡単！都道府県検索</td><td>https://github.com/michimichi2021/react_search_prefecture</td>
+  </tr>
+  <tr>
+    <td>好きな季節を選ぶやつ〜</td><td>https://github.com/michimichi2021/react_select_season</td>
+  </tr>
+  <tr>
+    <td>吾輩はねこの文を隠すよ〜</td><td>https://github.com/michimichi2021/react_hide_sentence</td>
+  </tr>
+  <tr>
+    <td>reactでクイズを作ったよ〜</td><td>https://github.com/michimichi2021/react_quiz</td>
+  </tr>
+  <tr>
+    <td>reactチュートリアル</td><td>https://github.com/michimichi2021/react-tutrial</td>
+  </tr>
+</table>
+
+-------------------------------------------------------------------------
+### その他
+-------------------------------------------------------------------------
+・DMMWEBCAMP卒業生コミュニティで運営サポーター<br>
+新規入会者さんの受け入れ対応や内部の広報誌を作成しています。<br>
+広報誌で現役でエンジニアとして働いているコミュニティ内の方々や部活動に対してインタビューを行っています。<br>
+
+・TECH WOMAN KANSAI運営<br>
+関西の女性エンジニア限定の勉強会を運営しています。<br>
+主にはオフラインでのもくもく会やLT会を開催しています。<br>
+個人Twitterでの呼びかけから始まり、connpassでの募集を呼びかけたところ参加者の皆さんがたくさん集まってくださいました。<br>
+これからは上記の活動以外にもエンジニアのゲストを招いての講義やハンズオンなど、より技術的な活動を増やしていきたいです。<br>
+connpass(主催している勉強会グループ) : [https://tech-woman-kansai.connpass.com/](https://tech-woman-kansai.connpass.com/)<br>
+note : [https://note.com/kaho_eng/](https://note.com/kaho_eng/)
+
+・外部団体のTwitterアカウント運用<br>
+情報発信大好きマンなので担当中。
 
 -------------------------------------------------------------------------
 ### 保有資格　✏️
