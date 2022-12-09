@@ -4,6 +4,7 @@
 #### 名前:　かほ <br>
 #### 性別:　女性<br>
 #### 趣味:　コミュニティ活動、甘いもの食べ歩き,　音楽聴くこと,　K-POPアイドル(女性)を拝むこと
+#### Twitterアカウント: https://twitter.com/kaho_eng
 
 -------------------------------------------------------------------------
 ### 経歴　💼
@@ -21,6 +22,12 @@
   </tr>
   <tr>
     <td>2022.2~現在</td><td>WEB Engineer</td>
+  </tr>
+  <tr>
+    <td>2022.5~現在</td><td>DMM WEB CAMP卒業生公式コミュニティで運営サポーター</td>
+  </tr>
+   <tr>
+    <td>2022.7~現在</td><td>TECH WOMAN KANSAI(関西女性エンジニア勉強会)の運営</td>
   </tr>
 </table>
 
@@ -90,6 +97,30 @@ SR1系統のニコチアナタバコの純系統で変異体が生じた原因�
 </table>
 
 -------------------------------------------------------------------------
+### その他
+-------------------------------------------------------------------------
+・DMMWEBCAMP卒業生コミュニティで運営サポーター<br>
+新規入会者さんの受け入れ対応や内部の広報誌を作成しています。<br>
+広報誌で現役でエンジニアとして働いているコミュニティ内の方々や部活動に対してインタビューを行っています。<br>
+
+・TECH WOMAN KANSAI運営<br>
+関西の女性エンジニア限定の勉強会を運営しています。<br>
+主にはオフラインでのもくもく会やLT会を開催しています。<br>
+個人Twitterでの呼びかけから始まり、connpassでの募集を呼びかけたところ参加者の皆さんがたくさん集まってくださいました。<br>
+これからは上記の活動以外にもエンジニアのゲストを招いての講義やハンズオンなど、より技術的な活動を増やしていきたいです。<br>
+connpass(主催している勉強会グループ) : [https://tech-woman-kansai.connpass.com/](https://tech-woman-kansai.connpass.com/)<br>
+note : [https://note.com/kaho_eng/](https://note.com/kaho_eng/)
+
+・外部団体のTwitterアカウント運用<br>
+情報発信大好きマンなので担当中。<br>
+
+・2022/12/2(金)京都産業大学の学生エンジニアコミュニティ「あまてく」さん座談会で登壇してきた<br>
+https://note.com/kaho_eng/n/na1005b788038
+
+
+<img width="500" alt="IMG_9499" src="https://user-images.githubusercontent.com/84381486/205535018-60fd19a3-c3f5-47d4-ae22-1269b8eca3e7.PNG">
+
+-------------------------------------------------------------------------
 ### 保有資格　✏️
 -------------------------------------------------------------------------
 TOEIC® Listening & Reading 670点<br>
@@ -101,18 +132,3 @@ MOS PowerPoint 2016<br>
 
 
 
-
-<!--
-**michimichi2021/michimichi2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
