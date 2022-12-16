@@ -101,6 +101,9 @@ SR1系統のニコチアナタバコの純系統で変異体が生じた原因�
 ・DMMWEBCAMP卒業生コミュニティで運営サポーター<br>
 新規入会者さんの受け入れ対応や内部の広報誌を作成しています。<br>
 広報誌で現役でエンジニアとして働いているコミュニティ内の方々や部活動に対してインタビューを行っています。<br>
+ https://web-camp.io/magazine/clip/interview/3004/<br>
+ <img width="480" alt="スクリーンショット 2022-12-16 1 04 40" src="https://user-images.githubusercontent.com/84381486/208001485-4aee3e3a-cc67-42eb-ad1d-d2cc0e7c2200.png">
+
 
 ・TECH WOMAN KANSAI運営<br>
 関西の女性エンジニア限定の勉強会を運営しています。<br>
