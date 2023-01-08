@@ -20,13 +20,16 @@
     <td>2021.7~2021.9</td><td>DMM WEB CAMP</td>
   </tr>
   <tr>
-    <td>2022.2~現在</td><td>WEB Engineer</td>
+    <td>2022.2~12</td><td>WEB Engineer</td>
   </tr>
   <tr>
     <td>2022.5~現在</td><td>DMM WEB CAMP卒業生公式コミュニティで運営サポーター</td>
   </tr>
    <tr>
     <td>2022.7~現在</td><td>TECH WOMAN KANSAI(関西女性エンジニア勉強会)の運営</td>
+  </tr>
+   <tr>
+    <td>2023.1~現在</td><td>技術広報ポジションに立ち上げ中</td>
   </tr>
 </table>
 
