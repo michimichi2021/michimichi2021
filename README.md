@@ -3,7 +3,7 @@
 ----------------------
 #### 名前:　かほ <br>
 #### 性別:　女性<br>
-#### 趣味:　コミュニティ活動、甘いもの食べ歩き,　音楽聴くこと,　K-POPアイドル(女性)を拝むこと
+#### 趣味:　コミュニティ活動、アニメやアイドル鑑賞、楽器の演奏(ピアノやベース)、甘いもの食べ歩き<br>
 
 -------------------------------------------------------------------------
 ### 経歴　💼
@@ -29,7 +29,7 @@
     <td>2022.7~現在</td><td>TECH WOMAN KANSAI(関西女性エンジニア勉強会)の運営</td>
   </tr>
    <tr>
-    <td>2023.1~現在</td><td>技術広報ポジションに立ち上げ中</td>
+    <td>2023.1~現在</td><td>技術広報ポジションを立ち上げ中</td>
   </tr>
 </table>
 
@@ -75,32 +75,29 @@ SR1系統のニコチアナタバコの純系統で変異体が生じた原因�
 </table>
 
 -------------------------------------------------------------------------
-### TypeScript,Reactでちょこっと学習&遊んでみた
+### TypeScript,React/Next.jsでちょこっと学習&遊んでみた
 -------------------------------------------------------------------------
 <table>
   <tr>
     <td>TypeScript/React,BaaSはFirebaseによる簡単チャットアプリ♪( ´▽｀)</td><td>https://github.com/michimichi2021/react-firebase-chat</td>
   </tr>
   <tr>
+    <td>Supabase×Next.jsでアプリ開発中</td><td>https://github.com/michimichi2021/nextjs-supabase-vercel</td>
+  </tr>
+  <tr>
     <td>DMMWEBCAMP卒業生コミュニティよしぴーさんによるTypeScript講座youtube予習</td><td>https://github.com/michimichi2021/yoshipi-homework-1</td>
-  </tr>
-  <tr>
-    <td>簡単！都道府県検索</td><td>https://github.com/michimichi2021/react_search_prefecture</td>
-  </tr>
-  <tr>
-    <td>好きな季節を選ぶやつ〜</td><td>https://github.com/michimichi2021/react_select_season</td>
-  </tr>
-  <tr>
-    <td>吾輩はねこの文を隠すよ〜</td><td>https://github.com/michimichi2021/react_hide_sentence</td>
-  </tr>
-  <tr>
-    <td>reactでクイズを作ったよ〜</td><td>https://github.com/michimichi2021/react_quiz</td>
   </tr>
 </table>
 
 -------------------------------------------------------------------------
 ### その他
 -------------------------------------------------------------------------
+・Qiitaで週1投稿中！<br>
+技術広報の立ち上げに伴い、<br>
+社内のエンジニアの皆さんにアウトプットの姿勢を見せて「記事を書こうかな！」と思ってもらえるように自ら開発を行い、技術記事を書いています。
+また、業務中の開発に関する場合は許可を得て書いています。<br>
+https://qiita.com/KAHO23340582
+
 ・DMMWEBCAMP卒業生コミュニティで運営サポーター<br>
 新規入会者さんの受け入れ対応や内部の広報誌を作成しています。<br>
 広報誌で現役でエンジニアとして働いているコミュニティ内の方々や部活動に対してインタビューを行っています。<br>
