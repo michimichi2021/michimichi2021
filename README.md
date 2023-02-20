@@ -20,7 +20,7 @@
     <td>2021.7~2021.9</td><td>DMM WEB CAMP</td>
   </tr>
   <tr>
-    <td>2022.2~12</td><td>WEB Engineer</td>
+    <td>2022.2~現在</td><td>WEB Engineer</td>
   </tr>
   <tr>
     <td>2022.5~現在</td><td>DMM WEB CAMP卒業生公式コミュニティで運営サポーター</td>
