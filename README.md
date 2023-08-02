@@ -6,34 +6,6 @@
 #### 趣味:　コミュニティ活動、アニメやアイドル鑑賞、楽器の演奏(ピアノやベース)、甘いもの食べ歩き<br>
 
 -------------------------------------------------------------------------
-### 経歴　💼
--------------------------------------------------------------------------
-
-<table>
-  <tr>
-      <td>~2021.3</td><td>大学卒業(生命科学専攻)</td>
-  </tr>
-  <tr>
-      <td>~2021.6</td><td>独学でプログラミングを勉強</td>
-  </tr>
-  <tr>
-    <td>2021.7~2021.9</td><td>DMM WEB CAMP</td>
-  </tr>
-  <tr>
-    <td>2022.2~現在</td><td>WEB Engineer</td>
-  </tr>
-  <tr>
-    <td>2022.5~現在</td><td>DMM WEB CAMP卒業生公式コミュニティで運営サポーター</td>
-  </tr>
-   <tr>
-    <td>2022.7~現在</td><td>TECH WOMAN KANSAI(関西女性エンジニア勉強会)の運営</td>
-  </tr>
-   <tr>
-    <td>2023.1~現在</td><td>技術広報ポジションを立ち上げ中</td>
-  </tr>
-</table>
-
--------------------------------------------------------------------------
 ### 大学時代の研究内容
 -------------------------------------------------------------------------
 「Finding the cause of various mutations found in a pure line of Nicotiana Tabacum cv. SR1」<br>
@@ -113,8 +85,6 @@ https://qiita.com/KAHO23340582
 connpass(主催している勉強会グループ) : [https://tech-woman-kansai.connpass.com/](https://tech-woman-kansai.connpass.com/)<br>
 note : [https://note.com/kaho_eng/](https://note.com/kaho_eng/)
 
-・外部団体のTwitterアカウント運用<br>
-情報発信大好きマンなので担当中。<br>
 
 ・2022/12/2(金)京都産業大学の学生エンジニアコミュニティ「あまてく」さん座談会で登壇してきた<br>
 https://note.com/kaho_eng/n/na1005b788038
